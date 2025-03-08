@@ -6,8 +6,7 @@ public class RendezVous {
 	private String heure;
 	private Logement logement;
 	private String numTel;
-	
-	
+
 	public RendezVous() {
 		super();
 		// TODO Auto-generated constructor stub
